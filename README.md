@@ -28,7 +28,6 @@ Explanation
 * If the user makes a mistake, the game ends, and the startOver() function resets the game.
 * Sounds and animations are played to provide feedback to the user.
 
-<img width="1440" alt="Screenshot 2024-03-02 at 16 21 18" src="https://github.com/HesamFarjad/Simon/assets/81914229/ac53fc0a-e82d-4d82-90d0-544e983edaf2">
 
 <img width="1440" alt="Screenshot 2024-03-02 at 16 21 18" src="https://github.com/HesamFarjad/Simon/assets/81914229/3b62de2b-bded-46b7-b3e0-09e65d6f8cef">
 
